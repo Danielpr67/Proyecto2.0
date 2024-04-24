@@ -1,4 +1,5 @@
 package Clases;
 
-public record Punto() {
+public record Punto(double x, double y) {
+
 }
